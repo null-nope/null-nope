@@ -4,4 +4,3 @@
 -✨I'm currently learn Java
 -⚡My hobby: Animation / Piano / calligraphy
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrderRabbit)](https://github.com/anuraghazra/github-readme-stats)
