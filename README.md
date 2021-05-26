@@ -1,8 +1,7 @@
-### Hi there,I'm OrderRabbit 👋
+## Hi there,I'm OrderRabbit 👋
 
-# I am a college student from China.
+### I am a college student from China.
 -✨I'm currently learn Java  
--⚡My hobby: Animation / Piano / calligraph
+-⚡My hobby: Animation / Piano / calligrap
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrderRabbit&show_icons=true&theme=dracula)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrderRabbit&show_icons=true&theme=dracula)
