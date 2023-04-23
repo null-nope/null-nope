@@ -1,4 +1,4 @@
-## Here's null-nope 👋
+## Here's null-nope
 
 ### I'm a college student from China.
 
